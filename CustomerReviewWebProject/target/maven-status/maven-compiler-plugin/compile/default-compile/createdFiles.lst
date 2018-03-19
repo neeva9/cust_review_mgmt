@@ -1,0 +1,15 @@
+com\example\cust\review\dataobjects\ProductRatingResponse.class
+com\example\cust\review\exception\ExceptionControllerAdvice.class
+com\example\cust\review\service\ProductRatingServiceImpl.class
+com\example\cust\review\entity\ProductReview.class
+com\example\cust\review\controller\AddProductRatingController.class
+com\example\cust\review\exception\RatingNotAllowed.class
+com\example\cust\review\dataobjects\ProductRatingRequest.class
+com\example\cust\review\controller\FindProductRatingController.class
+com\example\cust\review\exception\CommentNotAllowedToAdd.class
+com\example\cust\review\dao\ProductRatingDAO.class
+com\example\cust\review\dataobjects\FindRatingResponse.class
+com\example\cust\review\exception\ErrorResponse.class
+com\example\cust\review\service\ProductRatingService.class
+com\example\cust\review\dao\ProductRatingDAOImpl.class
+com\example\cust\review\dataobjects\FindRatingRequest.class
