@@ -8,7 +8,7 @@
 	<name>CustomerReviewWebProject Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<springframework.version>4.3.0.RELEASE</springframework.version>
+		<springframework.version>5.3.4</springframework.version>
 		<jackson.library>2.9.10.7</jackson.library>
 		<hibernate.version>5.0.5.Final</hibernate.version>
 	</properties>
